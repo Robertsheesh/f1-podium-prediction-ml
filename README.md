@@ -79,6 +79,7 @@ Given the imbalance in class distribution, we prioritized precision, recall, and
 | Random Forest          | 0.750 | 0.159 | 0.263 |
 | XGBoost                | 0.446 | 0.591 | 0.508 |
 
+![Alt text](podium-class-metrics-comparison.png)
 
 Logistic regression variants performed similarly, with Lasso achieving the best F1-score due to its sparsity-inducing regularization. Random Forest overfit the majority class, resulting in low recall. XGBoost achieved a more balanced trade-off, with higher recall than Random Forest and competitive precision.
 
