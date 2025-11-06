@@ -1,6 +1,6 @@
 # Predicting Formula 1 Podium Finishes Using Machine Learning
 
-This project was completed as a group assignment for the course **Data Science for Business I** at **Aalto University**.
+This project was completed as a group assignment for the course **Data Science for Business** at **Aalto University**.
 
 ## 1. Introduction
 
